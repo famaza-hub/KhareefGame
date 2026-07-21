@@ -7,13 +7,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "assets/images/photos/Good.png"
-
+            "photos/Good.png"
           ],
           [
             "2",
-              "assets/images/photos/Wrong.png"
-        
+            "photos/Wrong.png"
           ]
         ],
         "answer": 0,
@@ -24,11 +22,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/traffic_light_red.png"
+            "photos/traffic_light_red.png"
           ],
           [
             "2",
-              "photos/yellow_traffic_light.png"
+            "photos/yellow_traffic_light.png"
       
           ]
         ],
@@ -40,11 +38,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/GetReady.png"
+            "photos/GetReady.png"
             ], 
           [
             "2",
-              "photos/Go.png"
+           "photos/Go.png"
          
           ]
         ],
@@ -56,12 +54,12 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/RightBusStop.png"
+            "photos/RightBusStop.png"
           ],
             [
                 
             "2",
-                "photos/WrongBusStop.png"
+            "photos/WrongBusStop.png"
           ]
         ],
         "answer": 0,
@@ -72,11 +70,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/RightStep.png"
+            "photos/RightStep.png"
           ],
           [
             "2",
-              "photos/WrongStep.png"
+             "photos/WrongStep.png"
        
           ]
         ],
