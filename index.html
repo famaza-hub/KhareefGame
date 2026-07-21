@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>مغامرة خريف ظفار V13</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<audio id="ambient" src="assets/sounds/ambient.wav" loop></audio>
+<audio id="clickS" src="assets/sounds/click.wav"></audio>
+<audio id="shakeS" src="assets/sounds/shake.wav"></audio>
+<audio id="openS" src="assets/sounds/open.wav"></audio>
+<audio id="revealS" src="assets/sounds/reveal.wav"></audio>
+<audio id="correctS" src="assets/sounds/correct.wav"></audio>
+<audio id="wrongS" src="assets/sounds/wrong.wav"></audio>
+
+<section id="home" class="home">
+  <div id="stage" class="stage">
+    <img src="assets/images/home-v12-final.png" class="home-image" alt="مغامرة خريف ظفار">
+    <div class="bird bird-one">🕊️</div>
+    <div class="bird bird-two">🐦</div>
+    <div class="butterfly butterfly-one">🦋</div>
+    <div class="butterfly butterfly-two">🦋</div>
+    <div class="butterfly butterfly-three">🦋</div>
+    <button class="chest c1" data-box="0" aria-label="جبل سمحان"></button>
+    <button class="chest c2" data-box="1" aria-label="شاطئ المغسيل"></button>
+    <button class="chest c3" data-box="2" aria-label="وادي دربات"></button>
+    <button class="chest c4" data-box="3" aria-label="عين رزات"></button>
+    <button class="chest c5" data-box="4" aria-label="جبل إتين"></button>
+    <div id="picker" class="picker hidden">
+      <div class="picker-title">اختر رقم السؤال</div>
+      <div id="pickerButtons" class="picker-buttons"></div>
+    </div>
+    <div id="spark" class="spark">✨</div>
+  </div>
+</section>
+
+<div id="modal" class="modal hidden">
+  <div class="backdrop"></div>
+  <div class="game-card">
+    <button id="xClose" class="round-btn close-btn" aria-label="إغلاق">×</button>
+    <button id="repeat" class="round-btn sound-btn" aria-label="إعادة السؤال">🔊</button>
+
+    <img src="assets/images/police-boy.png" class="mascot mascot-boy" alt="الشرطي">
+    <img src="assets/images/police-woman.png" class="mascot mascot-woman" alt="الشرطية">
+
+    <div class="speech speech-boy">فكّر جيدًا يا بطل!</div>
+    <div class="speech speech-woman">اختر الصورة الصحيحة</div>
+
+    <main class="question-area">
+      <h1 id="question"></h1>
+<div id="answers" class="photo-answers"></div>
+      <div id="feedback" class="feedback"></div>
+      <button id="next" class="next-btn hidden">العودة إلى الصناديق</button>
+    </main>
+    <div id="confetti" class="confetti"></div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+<rect width="500" height="300" rx="34" fill="#eef8ff"/>
+<circle cx="250" cy="120" r="88" fill="#fff" stroke="#2479ad" stroke-width="8"/>
+<text x="250" y="158" font-size="100" text-anchor="middle">🌙🚗💡</text>
+<rect x="28" y="225" width="444" height="56" rx="22" fill="#2479ad"/>
+<text x="250" y="263" font-family="Tahoma,Arial" font-size="27" font-weight="bold" text-anchor="middle" fill="#fff">ليلاً</text>
+</svg>
