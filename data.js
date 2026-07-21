@@ -8,6 +8,7 @@ const BOXES = [
           [
             "1",
             "photos/Good.png"
+             "photos/WithHelmets.png"
           ],
           [
             "2",
