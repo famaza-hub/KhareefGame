@@ -7,8 +7,7 @@ const BOXES = [
         "options": [
           [
             "1",
-            "photos/Good.png"
-             "photos/WithHelmets.png"
+            "assets/images/photos/Good.png"
           ],
           [
             "2",
