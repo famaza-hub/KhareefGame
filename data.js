@@ -24,11 +24,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/traffic_light_red.PNG"
+                "photos/traffic_light_red.png"
           ],
           [
             "2",
-              "photos/yellow_traffic_light.PNG"
+              "photos/yellow_traffic_light.png"
       
           ]
         ],
@@ -40,11 +40,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/GetReady.PNG"
+                "photos/GetReady.png"
             ], 
           [
             "2",
-              "photos/Go.PNG"
+              "photos/Go.png"
          
           ]
         ],
@@ -56,12 +56,12 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/RightBusStop.PNG"
+                "photos/RightBusStop.png"
           ],
             [
                 
             "2",
-                "photos/WrongBusStop.PNG"
+                "photos/WrongBusStop.png"
           ]
         ],
         "answer": 0,
@@ -72,11 +72,11 @@ const BOXES = [
         "options": [
           [
             "1",
-                "photos/RightStep.PNG"
+                "photos/RightStep.png"
           ],
           [
             "2",
-              "photos/WrongStep.PNG"
+              "photos/WrongStep.png"
        
           ]
         ],
@@ -157,11 +157,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/GetReady.PNG"
+                  "photos/GetReady.png"
               ],
               [
                   "2",
-                  "photos/Go.PNG"
+                  "photos/Go.png"
 
               ]
           ],
@@ -178,11 +178,11 @@ const BOXES = [
             "options": [
                 [
                     "1",
-                    "photos/traffic_light_red.PNG"
+                    "photos/traffic_light_red.png"
                 ],
                 [
                     "2",
-                    "photos/yellow_traffic_light.PNG"
+                    "photos/yellow_traffic_light.png"
 
                 ]
             ],
@@ -194,11 +194,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/Go.PNG"
+                  "photos/Go.png"
               ],
               [
                   "2",
-                  "photos/stop.PNG"
+                  "photos/stop.png"
 
               ]
           ],
@@ -210,11 +210,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/GetReady.PNG"
+                  "photos/GetReady.png"
               ],
               [
                   "2",
-                  "photos/Go.PNG"
+                  "photos/Go.png"
 
               ]
           ],
@@ -242,11 +242,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/Good.PNG"
+                  "photos/Good.png"
               ],
               [
                   "2",
-                  "photos/Wrong.PNG"
+                  "photos/Wrong.png"
 
               ]
           ],
@@ -263,11 +263,11 @@ const BOXES = [
             "options": [
                 [
                     "1",
-                    "photos/RightStep.PNG"
+                    "photos/RightStep.png"
                 ],
                 [
                     "2",
-                    "photos/WrongStep.PNG"
+                    "photos/WrongStep.png"
 
                 ]
             ],
@@ -279,12 +279,12 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/RightBusStop.PNG"
+                  "photos/RightBusStop.png"
               ],
               [
 
                   "2",
-                  "photos/WrongBusStop.PNG"
+                  "photos/WrongBusStop.png"
               ]
           ],
           "answer": 0,
@@ -295,11 +295,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/RightStep.PNG"
+                  "photos/RightStep.png"
               ],
               [
                   "2",
-                  "photos/WrongStep.PNG"
+                  "photos/WrongStep.png"
 
               ]
           ],
@@ -311,11 +311,11 @@ const BOXES = [
           "options": [
               [
                   "1",
-                  "photos/Go.PNG"
+                  "photos/Go.png"
               ],
               [
                   "2",
-                  "photos/stop.PNG"
+                  "photos/stop.png"
 
               ]
           ],
@@ -396,11 +396,11 @@ const BOXES = [
         "options": [
           [
             "1",
-            "photos/BusRight.PNG"
+            "photos/BusRight.png"
           ],
           [
             "2",
-            "photos/BusWrong.PNG"
+            "photos/BusWrong.png"
        
           ]
         ],
@@ -412,11 +412,11 @@ const BOXES = [
         "options": [
           [
             "1",
-            "photos/Go.PNG"
+            "photos/Go.png"
           ],
           [
             "2",
-           "photos/stop.PNG"
+           "photos/stop.png"
      
           ]
         ],
