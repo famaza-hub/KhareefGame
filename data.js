@@ -199,7 +199,7 @@ const BOXES = [
             "photos/WrongBeh.png"
           ]
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": " "
       },
       {
