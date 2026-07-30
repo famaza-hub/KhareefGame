@@ -188,20 +188,19 @@ const BOXES = [
         "explanation": ""
       },
       {
-          "q": " على ماذا يدل اللون الاحمر في الاشارات الضوئية؟",
-          "options": [
-              [
-                  "1",
-                  "photos/Go.png"
-              ],
-              [
-                  "2",
-                  "photos/stop.png"
-
-              ]
+         "q": "في أي صورة يوجد تصرف الصحيح؟",
+        "options": [
+          [
+            "1",
+            "photos/RigjtBh.png"
           ],
-          "answer": 1,
-        "explanation": ""
+          [
+            "2",
+            "photos/WrongBeh.png"
+          ]
+        ],
+        "answer": 1,
+        "explanation": " "
       },
       {
           "q": "  على ماذا يدل اللون الاصفر في الاشارات الضوئية؟",
