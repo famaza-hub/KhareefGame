@@ -203,19 +203,19 @@ const BOXES = [
         "explanation": " "
       },
       {
-          "q": "  على ماذا يدل اللون الاصفر في الاشارات الضوئية؟",
-          "options": [
-              [
-                  "1",
-                  "photos/GetReady.png"
-              ],
-              [
-                  "2",
-                  "photos/Go.png"
-
-              ]
+          "q": "اي صورة تعبر السلوك الصحيح في الحافلة؟",
+        "options": [
+          [
+            "1",
+            "photos/BusRight.png"
           ],
-          "answer": 0,
+          [
+            "2",
+            "photos/BusWrong.png"
+       
+          ]
+        ],
+        "answer": 0,
         "explanation": ""
       },
       {
